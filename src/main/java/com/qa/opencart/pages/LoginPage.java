@@ -4,7 +4,7 @@ public class LoginPage {
 	
 	public void testr()
 	{
-		System.out.println("thknsj");
+		System.out.println("trfnsj");
 	}
 
 }
